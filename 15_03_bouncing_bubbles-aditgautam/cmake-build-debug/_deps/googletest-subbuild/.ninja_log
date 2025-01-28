@@ -1,0 +1,21 @@
+# ninja log v5
+0	10	1731534222470380470	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	4e937118d91cf4e3
+0	10	1731534222470380470	/Users/aditgautam/Documents/CS003A/15_03_bouncing_bubbles-aditgautam/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	4e937118d91cf4e3
+10	1572	1731534224032529794	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	e5b118d5d1ba66f8
+10	1572	1731534224032529794	/Users/aditgautam/Documents/CS003A/15_03_bouncing_bubbles-aditgautam/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	e5b118d5d1ba66f8
+1573	1584	1731534224043738930	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	d15cfdc82dc6497e
+1573	1584	1731534224043738930	/Users/aditgautam/Documents/CS003A/15_03_bouncing_bubbles-aditgautam/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	d15cfdc82dc6497e
+1584	1594	1731534224054133724	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	ee5ad81a465705da
+1584	1594	1731534224054133724	/Users/aditgautam/Documents/CS003A/15_03_bouncing_bubbles-aditgautam/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	ee5ad81a465705da
+1594	1604	1731534224064387314	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	9e647ff86fcac971
+1594	1604	1731534224064387314	/Users/aditgautam/Documents/CS003A/15_03_bouncing_bubbles-aditgautam/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	9e647ff86fcac971
+1604	1614	1731534224074361875	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	fd9182967695f9f
+1604	1614	1731534224074361875	/Users/aditgautam/Documents/CS003A/15_03_bouncing_bubbles-aditgautam/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	fd9182967695f9f
+1614	1624	1731534224084346810	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	7dcf024dcaf09776
+1614	1624	1731534224084346810	/Users/aditgautam/Documents/CS003A/15_03_bouncing_bubbles-aditgautam/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	7dcf024dcaf09776
+1624	1634	1731534224094503279	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	18f853007080c8e1
+1624	1634	1731534224094503279	/Users/aditgautam/Documents/CS003A/15_03_bouncing_bubbles-aditgautam/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	18f853007080c8e1
+1634	1648	1731534224108496846	CMakeFiles/googletest-populate-complete	302f6faab863372f
+1634	1648	1731534224108496846	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	302f6faab863372f
+1634	1648	1731534224108496846	/Users/aditgautam/Documents/CS003A/15_03_bouncing_bubbles-aditgautam/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	302f6faab863372f
+1634	1648	1731534224108496846	/Users/aditgautam/Documents/CS003A/15_03_bouncing_bubbles-aditgautam/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	302f6faab863372f
