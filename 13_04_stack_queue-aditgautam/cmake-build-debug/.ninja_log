@@ -1,0 +1,10 @@
+# ninja log v5
+0	162	1729057939189258336	CMakeFiles/basic_test.dir/includes/node/node.cpp.o	6111420bd69da815
+1	163	1729057939189258127	CMakeFiles/basic_test.dir/includes/linked_list_functions/linked_list_functions.cpp.o	bf1050b58e7db0b
+1	499	1729057939525579603	CMakeFiles/basic_test.dir/includes/stack/MyStack.cpp.o	fa02aa7b357d305
+1	507	1729057939534654498	CMakeFiles/basic_test.dir/includes/queue/MyQueue.cpp.o	51bd8e0b330a7353
+162	544	1729057939571747775	CMakeFiles/basic_test.dir/includes/stub/stub.cpp.o	7c71dd022bd93fd0
+0	706	1729057939733301162	CMakeFiles/basic_test.dir/_tests/_test_files/basic_test.cpp.o	3323ca9e17ea68b4
+0	1488	1729057940510165415	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	2ee1eb71a717a5c9
+1489	1523	1729057940553761000	lib/libgtestd.a	66bc469ad9e163d8
+1523	1638	1729057940665739945	bin/basic_test	4d114a23a505d1d2
